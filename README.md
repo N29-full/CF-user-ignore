@@ -1,2 +1,2 @@
 # CF-user-ignore
-ignores selected users comments
+ JavaScript code that hides comments from selected users using Tampermonkey.
